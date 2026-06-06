@@ -1,0 +1,8 @@
+# Основные зависимости для FunPay Universal
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+python-dotenv>=1.0.0
+# Добавь свои зависимости для модулей
+# pillow
+# asyncio (обычно встроен)
